@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FindPicture</string>
+    <string name="search">Search Image</string>
+    <string name="menu_option">Menu Option</string>
+    <string name="image_in_grid_2">2</string>
+    <string name="image_in_grid_3">3</string>
+    <string name="image_in_grid_4">4</string>
+    <string name="PIXABAY_API_KEY">12585151-b87ba609b428bd4d1af62429b</string>
+    <string name="no_internet">Ops, we could not find an active internet connection…</string>
+    <string name="error">Ops, something is not right…</string>
+    <string name="retry">RETRY</string>
+    <string name="no_results">No results for the query :(</string>
+</resources>
